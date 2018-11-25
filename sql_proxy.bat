@@ -1,0 +1,1 @@
+C:\bin\cloud_sql_proxy_x64.exe -instances="likehome-221414:asia-southeast1:likehome"=tcp:3308 -credential_file=C:\Users\csiparitat\Downloads\likehome-221414-bd0da0823825.json
